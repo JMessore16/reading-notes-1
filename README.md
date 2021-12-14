@@ -32,4 +32,11 @@ Additionally there are different levels of headers:
 
 **Note**: Be sure to use `\` for line breaks!
 
+## What are Text Editors?
+**Text Editors** are programs that you use to write text, similar to how you would use a notebook to write down notes. However, different Text Editors have different features. Generally, the text editor that comes preinstalled on your computer system lacks the features that other Text Editors have to make reading your code easier. Some of the more robust text editors are:
+-**VS Code**: This is what I use. It is available on PC, Mac, and Linux and it is free. Created by Microsoft.
+-**Atom**: A text editor created by the people at GitHub. Free.
+-**Xcode**: Text editor for MacOS by Apple. Has an enviroment for developing 
+The types of features you can expect from:
+
 
