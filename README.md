@@ -55,7 +55,7 @@ Some basic commands:
 - **mkdir**: Creates a directory. For example: `mkdir ./projects/courses/course-102/`\
 - **pwd**: Outputs what your current directory is. For example: `pwd` output: `Users/david/projects/`
 
-**`cd`**: In order to navigate the file system using the command line, you will need to use `cd`. The syntax can be tricky at first. The basic syntax is `cd /folder-name/`. However, the location is relative. This means that `cd` will assume that the directory you are changing to exists within the same directory you are currently in. The way around this is using absolute paths. For example, if I am currently in `/projects/courses/courses/course-102` and I wanted to move to a folder in the home directory, I would have to type `cd /~/other-folder/`. Below are some examples of how to use it:\
+**`cd`**: In order to navigate the file system using the command line, you will need to use `cd`. The syntax can be tricky at first. The basic syntax is `cd /folder-name/`. However, the location is relative. This means that `cd` will assume that the directory you are changing to exists within the same directory you are currently in. The way around this is using absolute paths. For example, if I am currently in `/projects/courses/courses/course-102` and I wanted to move to a folder in the home directory, I would have to type `cd /~/other-folder/`. Below are some examples of how to use it:
 - `cd ./projects/courses`: Sets your working directory to `/courses/`. 
 - `cd ..` : Sets your working directory to the 
 
