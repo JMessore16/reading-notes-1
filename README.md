@@ -23,7 +23,7 @@ Well, **Markdown** is a language that allows you to write pages on GitHub to sho
 There are many different commands to create various effects. For example:\
 -`**` makes the text bold. `**text**` **text**\
 -`*` italicizes the text. `*text*` *text*\
--`~~` is a strikethrough. `~~text~~` ~~text~~\
+-`~~` is a strikethrough. `~~text~~` ~~text~~
 
 Additionally there are different levels of headers:
 1. `#` is the largest header. `# text#`
