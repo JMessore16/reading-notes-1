@@ -29,3 +29,5 @@ Additionally there are different levels of headers:
 1. `#` is the largest header. `# text#`
 1. `##` is the middle-sized header. `## text##`
 1. `###` is the smallest header. `### text##`
+
+**Note**: Be sure to use `\` for line breaks!
