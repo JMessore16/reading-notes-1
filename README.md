@@ -37,7 +37,7 @@ Additionally there are different levels of headers:
 Some of the more robust text editors are:\
 -**VS Code**: This is what I use. It is available on PC, Mac, and Linux and it is free. Created by Microsoft.\
 -**Atom**: A text editor created by the people at GitHub. Free.\
--**Xcode**: Text editor for MacOS by Apple. Has an enviroment for developing iOS apps.\
+-**Xcode**: Text editor for MacOS by Apple. Has an enviroment for developing iOS apps.
 
 The types of features you can expect from these are:
 1.**Code Completion**: Similar to how your phone has autocomplete for texting. Editors with this feature will attempt to "guess" the text you are typing and give you the option to complete the statement.
