@@ -33,10 +33,18 @@ Additionally there are different levels of headers:
 **Note**: Be sure to use `\` for line breaks!
 
 ## What are Text Editors?
-**Text Editors** are programs that you use to write text, similar to how you would use a notebook to write down notes. However, different Text Editors have different features. Generally, the text editor that comes preinstalled on your computer system lacks the features that other Text Editors have to make reading your code easier. Some of the more robust text editors are:
--**VS Code**: This is what I use. It is available on PC, Mac, and Linux and it is free. Created by Microsoft.
--**Atom**: A text editor created by the people at GitHub. Free.
--**Xcode**: Text editor for MacOS by Apple. Has an enviroment for developing 
-The types of features you can expect from:
+**Text Editors** are programs that you use to write text, similar to how you would use a notebook to write down notes. However, different Text Editors have different features. Generally, the text editor that comes preinstalled on your computer system lacks the features that other Text Editors have to make reading your code easier.\ 
+Some of the more robust text editors are:\
+-**VS Code**: This is what I use. It is available on PC, Mac, and Linux and it is free. Created by Microsoft.\
+-**Atom**: A text editor created by the people at GitHub. Free.\
+-**Xcode**: Text editor for MacOS by Apple. Has an enviroment for developing iOS apps.\
+
+The types of features you can expect from these are:
+1.**Code Completion**: Similar to how your phone has autocomplete for texting. Editors with this feature will attempt to "guess" the text you are typing and give you the option to complete the statement.
+1.**Syntax Highlighting**: This highlights different parts of your code based on what it is. For example, variables could be orange and functions could be purple. It allows for easier code reading/troubleshooting.
+1.**Themes**: Adds some swag to your Text Editor. Changes the color scheme of the editor. This can be the background color or any of the syntax highlighting.
+1.**Extensions**: Allows you to add extensions to your Text Editor. These extensions provide different kinds of functionality.
+
+
 
 
