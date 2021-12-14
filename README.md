@@ -1,6 +1,6 @@
 # Welcome to my GitHub Page!
 My name is David Nunes and I am currently a student at Code Fellows!
-Check out my profile [here!](https://github.com/david-nunes)
+Check out my profile [here](https://github.com/david-nunes)!
 
 ## Growth Mindset
 ### What is it?
