@@ -2,7 +2,7 @@
 My name is David Nunes and I am currently a student at Code Fellows!
 Check out my profile [here!](https://github.com/david-nunes)
 
-## Growth Mindset
+## Growth Mindset##
 ###What is it?###
 **Growth Mindset** is the belief that you can develop one's abilities through perseverance rather than natural ability alone.
 Some key differences between the fixed and the growth mindset are:
