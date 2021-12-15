@@ -36,9 +36,9 @@ Additionally there are different levels of headers:
 **Text Editors** are programs that you use to write text, similar to how you would use a notebook to write down notes. However, different Text Editors have different features. Generally, the text editor that comes preinstalled on your computer system lacks the features that other Text Editors have to make reading your code easier.
 
 Some of the more robust text editors are:\
--**VS Code**: This is what I use. It is available on PC, Mac, and Linux and it is free. Created by Microsoft.\
--**Atom**: A text editor created by the people at GitHub. Free for PC, Mac, and Linux.
--**Xcode**: Text editor for MacOS by Apple. Has an enviroment for developing iOS apps.
+- **VS Code**: This is what I use. It is available on PC, Mac, and Linux and it is free. Created by Microsoft.\
+- **Atom**: A text editor created by the people at GitHub. Free for PC, Mac, and Linux.
+- **Xcode**: Text editor for MacOS by Apple. Has an enviroment for developing iOS apps.
 
 The types of features you can expect from these are:
 1. **Code Completion**: Similar to how your phone has autocomplete for texting. Editors with this feature will attempt to "guess" the text you are typing and give you the option to complete the statement.
