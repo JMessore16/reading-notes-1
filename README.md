@@ -59,8 +59,7 @@ Some basic commands:
 - `cd ./projects/courses`: Sets your working directory to `/courses/`. 
 - `cd ..` : Sets your working directory to the directory above it. For example if you are in `/folder/courses/`, entering `cd ..` will cause your working directory to change to `/folder/`. 
 
-
-
+Check out the [cheatsheet](/cheat-sheet.md)
 
 
 
