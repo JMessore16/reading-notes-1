@@ -48,7 +48,7 @@ The types of features you can expect from these are:
 
 
 
-## Check out my command line [cheatsheet](/cheat-sheet.md) here!
+## Check out my command line cheat sheet [here](/cheat-sheet.md)!
 
 
 
