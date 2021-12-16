@@ -51,4 +51,8 @@ The types of features you can expect from these are:
 ## Check out my command line cheat sheet [here](/cheat-sheet.md)!!
 
 
+## What is Git?
+
+**Git** is a Distributed Version Control System (DVCS). It stores data using a series of snapshots.
+
 
